@@ -12,7 +12,7 @@ import Account from "./pages/Account";
 import Login from "./pages/Login";
 import Booking from "./pages/Booking";
 import PageNotFound from "./pages/PageNotFound";
-import Checkin from "./pages/CheckIn";
+import Checkin from "./pages/Checkin";
 
 import AppLayout from "./ui/AppLayout";
 import ProtectedRoute from "./ui/ProtectedRoute";
