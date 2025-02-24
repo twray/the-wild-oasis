@@ -1,0 +1,3 @@
+# The Wild Oasis
+
+A sample project backend for a hotel website.
